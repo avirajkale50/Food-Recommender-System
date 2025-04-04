@@ -151,7 +151,7 @@ const HomePage = () => {
       </div>
 
       {/* Call to Action */}
-      <div className="text-center mb-16">
+      <div className="text-center pb-5">
         <h2 className="text-3xl font-bold mb-6">
           Ready to Transform Your Nutrition?
         </h2>
